@@ -1,4 +1,4 @@
-,coordinates,degrees_lat,minutes_lat,directio_lat,degrees_lon,minutes_lon,directio_lon
+index,coordinates,degrees_lat,minutes_lat,directio_lat,degrees_lon,minutes_lon,directio_lon
 3340,lat 42° 15' N. lon 60° 35' W.,42,15,N.,60,35,W.
 7347,lat 27° 30' lon 72° 15',27,30,,72,15,
 8877,lat 45° 37' lon 15° 12',45,37,,15,12,
