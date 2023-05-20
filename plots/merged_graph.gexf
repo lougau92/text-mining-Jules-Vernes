@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-05-19">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="Captain Nemo, Nemo, Captain" label="Captain Nemo, Nemo, Captain" />
+      <node id="South" label="South" />
+      <node id="South Pole" label="South Pole" />
+      <node id="Europe" label="Europe" />
+      <node id="Ocean" label="Ocean" />
+      <node id="_Nautilus_" label="_Nautilus_" />
+      <node id="Mediterranean" label="Mediterranean" />
+      <node id="Well" label="Well" />
+      <node id="North" label="North" />
+      <node id="Master Conseil, Conseil, Master" label="Master Conseil, Conseil, Master" />
+      <node id="France" label="France" />
+      <node id="Suez" label="Suez" />
+      <node id="D" label="D" />
+    </nodes>
+    <edges>
+      <edge source="Captain Nemo, Nemo, Captain" target="South" id="0" label="7" weight="7" />
+      <edge source="Captain Nemo, Nemo, Captain" target="South Pole" id="1" label="6" weight="6" />
+      <edge source="Captain Nemo, Nemo, Captain" target="North" id="2" label="3" weight="3" />
+      <edge source="Captain Nemo, Nemo, Captain" target="Mediterranean" id="3" label="3" weight="3" />
+      <edge source="Captain Nemo, Nemo, Captain" target="Ocean" id="4" label="3" weight="3" />
+      <edge source="South" target="Suez" id="5" label="2" weight="2" />
+      <edge source="Europe" target="Ocean" id="6" label="4" weight="4" />
+      <edge source="Europe" target="France" id="7" label="2" weight="2" />
+      <edge source="Ocean" target="_Nautilus_" id="8" label="4" weight="4" />
+      <edge source="Mediterranean" target="Well" id="9" label="3" weight="3" />
+      <edge source="Mediterranean" target="Suez" id="10" label="2" weight="2" />
+      <edge source="Mediterranean" target="_Nautilus_" id="11" label="2" weight="2" />
+      <edge source="Master Conseil, Conseil, Master" target="Mediterranean" id="12" label="3" weight="3" />
+      <edge source="Master Conseil, Conseil, Master" target="Ocean" id="13" label="2" weight="2" />
+      <edge source="France" target="Master Conseil, Conseil, Master" id="14" label="2" weight="2" />
+      <edge source="D" target="Mediterranean" id="15" label="2" weight="2" />
+    </edges>
+  </graph>
+</gexf>
