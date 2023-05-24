@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-05-24">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="Captain Nemo, Nemo, Captain" label="Captain Nemo, Nemo, Captain" />
+      <node id="South" label="South" />
+      <node id="South Pole" label="South Pole" />
+      <node id="Ocean" label="Ocean" />
+      <node id="_Nautilus_" label="_Nautilus_" />
+      <node id="North" label="North" />
+      <node id="Master Conseil, Conseil, Master" label="Master Conseil, Conseil, Master" />
+      <node id="Mediterranean" label="Mediterranean" />
+      <node id="Europe" label="Europe" />
+      <node id="Well" label="Well" />
+      <node id="Persian Gulf" label="Persian Gulf" />
+      <node id="D" label="D" />
+      <node id="France" label="France" />
+      <node id="Master Ned, Ned, Master" label="Master Ned, Ned, Master" />
+      <node id="Sir Naturalist, Sir" label="Sir Naturalist, Sir" />
+      <node id="Suez" label="Suez" />
+      <node id="Mr. Ned Land, Ned, Land, Mr." label="Mr. Ned Land, Ned, Land, Mr." />
+      <node id="Gulf Stream" label="Gulf Stream" />
+      <node id="Sargasso" label="Sargasso" />
+      <node id="Poor Ned, Ned" label="Poor Ned, Ned" />
+      <node id="Happy Ned, Ned" label="Happy Ned, Ned" />
+      <node id="Friend Ned, Ned" label="Friend Ned, Ned" />
+      <node id="Professor Aronnax, Professor" label="Professor Aronnax, Professor" />
+      <node id="Master Land, Land, Master" label="Master Land, Land, Master" />
+      <node id="Ned Land, Ned, Land" label="Ned Land, Ned, Land" />
+    </nodes>
+    <edges>
+      <edge source="Captain Nemo, Nemo, Captain" target="South" id="0" label="11" weight="11" />
+      <edge source="Captain Nemo, Nemo, Captain" target="South Pole" id="1" label="9" weight="9" />
+      <edge source="Captain Nemo, Nemo, Captain" target="Ocean" id="2" label="5" weight="5" />
+      <edge source="Captain Nemo, Nemo, Captain" target="North" id="3" label="4" weight="4" />
+      <edge source="Captain Nemo, Nemo, Captain" target="Mediterranean" id="4" label="4" weight="4" />
+      <edge source="Captain Nemo, Nemo, Captain" target="France" id="5" label="2" weight="2" />
+      <edge source="South" target="_Nautilus_" id="6" label="2" weight="2" />
+      <edge source="South" target="Suez" id="7" label="2" weight="2" />
+      <edge source="Ocean" target="_Nautilus_" id="8" label="6" weight="6" />
+      <edge source="Ocean" target="Sargasso" id="9" label="2" weight="2" />
+      <edge source="North" target="_Nautilus_" id="10" label="2" weight="2" />
+      <edge source="North" target="Poor Ned, Ned" id="11" label="2" weight="2" />
+      <edge source="Master Conseil, Conseil, Master" target="Mediterranean" id="12" label="4" weight="4" />
+      <edge source="Master Conseil, Conseil, Master" target="Ocean" id="13" label="2" weight="2" />
+      <edge source="Master Conseil, Conseil, Master" target="South" id="14" label="2" weight="2" />
+      <edge source="Mediterranean" target="Well" id="15" label="3" weight="3" />
+      <edge source="Mediterranean" target="Suez" id="16" label="2" weight="2" />
+      <edge source="Mediterranean" target="_Nautilus_" id="17" label="2" weight="2" />
+      <edge source="Europe" target="Ocean" id="18" label="4" weight="4" />
+      <edge source="Europe" target="France" id="19" label="2" weight="2" />
+      <edge source="Persian Gulf" target="_Nautilus_" id="20" label="2" weight="2" />
+      <edge source="D" target="France" id="21" label="2" weight="2" />
+      <edge source="D" target="South" id="22" label="2" weight="2" />
+      <edge source="D" target="South Pole" id="23" label="2" weight="2" />
+      <edge source="D" target="Mediterranean" id="24" label="2" weight="2" />
+      <edge source="France" target="Master Conseil, Conseil, Master" id="25" label="2" weight="2" />
+      <edge source="France" target="_Nautilus_" id="26" label="2" weight="2" />
+      <edge source="France" target="Professor Aronnax, Professor" id="27" label="2" weight="2" />
+      <edge source="Master Ned, Ned, Master" target="North" id="28" label="2" weight="2" />
+      <edge source="Sir Naturalist, Sir" target="South" id="29" label="2" weight="2" />
+      <edge source="Sir Naturalist, Sir" target="South Pole" id="30" label="2" weight="2" />
+      <edge source="Mr. Ned Land, Ned, Land, Mr." target="North" id="31" label="2" weight="2" />
+      <edge source="Gulf Stream" target="Ocean" id="32" label="2" weight="2" />
+      <edge source="Happy Ned, Ned" target="North" id="33" label="2" weight="2" />
+      <edge source="Friend Ned, Ned" target="North" id="34" label="2" weight="2" />
+      <edge source="Master Land, Land, Master" target="North" id="35" label="2" weight="2" />
+      <edge source="Ned Land, Ned, Land" target="North" id="36" label="2" weight="2" />
+    </edges>
+  </graph>
+</gexf>
