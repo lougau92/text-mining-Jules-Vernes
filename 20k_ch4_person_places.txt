@@ -1,0 +1,23 @@
+Persons: 
+
+Captain Farragut: 6 times
+    Knight of Rhodes: 1 time
+    Dieudonné de Gozon: 1 time
+    Ned Land: 15 times
+    Mr. Aronnax: 2 times
+    Rabelais: 1 time
+    Homer: 1 time
+    Canadian Homer: 1 time
+
+Places:
+
+    Rhodes: 1 time
+    Pacific Ocean: 1 time
+    Cape Blanc: 1 time
+    Patagonia: 1 time
+    Tropic of Capricorn: 1 time
+    Straits of Magellan: 1 time
+    Quebec: 1 time
+    France: 1 time
+    The North: 1 time
+    Scotia: 1 time

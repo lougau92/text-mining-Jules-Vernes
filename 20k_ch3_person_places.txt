@@ -1,0 +1,29 @@
+People:
+
+    J. B. Hobson - 1
+    Secretary of Marine - 1
+    Conseil - 10
+    Commander Farragut - 4
+    Monsieur Pierre Aronnax - 1
+    Engineer - 1
+
+Places:
+
+    North Sea - 1
+    Jardin des Plantes - 1
+    Europe - 2
+    France - 4
+    North Pacific Ocean - 1
+    China - 1
+    Congo - 1
+    Paris - 1
+    Abraham Lincoln (Ship) - 6
+    Brooklyn - 2
+    New York - 3
+    East River - 1
+    New Jersey - 1
+    Hudson - 1
+    Sandy Hook Point - 1
+    Long Island - 1
+    Fire Island - 1
+    Atlantic - 1
