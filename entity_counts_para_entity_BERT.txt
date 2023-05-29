@@ -1,0 +1,214 @@
+Chapter 1:
+    Paragraph 1:
+        Person 'Baker': mentioned 1 times
+        Place 'Australia': mentioned 1 times
+    Paragraph 2:
+        Person 'Columbus': mentioned 1 times
+        Place 'Pacific Ocean': mentioned 1 times
+        Place 'West India Pacific': mentioned 1 times
+    Paragraph 3:
+        Person 'A Mo ##ign ##o': mentioned 1 times
+        Place 'Archipelago': mentioned 1 times
+    Paragraph 4:
+        Person 'Peter ##mann': mentioned 1 times
+        Place 'France': mentioned 1 times
+Chapter 2:
+    Paragraph 1:
+        Person 'M . AR': mentioned 1 times
+        Person '##X': mentioned 1 times
+        Place 'Museum': mentioned 1 times
+        Place 'Fifth Avenue Hotel': mentioned 1 times
+    Paragraph 2:
+        Person 'Far ##rag ##ut': mentioned 1 times
+        Place 'France': mentioned 1 times
+Chapter 3:
+    Paragraph 1:
+        Person 'Abraham Lincoln': mentioned 1 times
+        Place 'Brooklyn': mentioned 1 times
+Chapter 4:
+    Paragraph 1:
+        Person 'Knight': mentioned 1 times
+        Person 'Die ##udo ##nn ##é de Go ##zon': mentioned 1 times
+        Place 'Rhodes': mentioned 1 times
+    Paragraph 2:
+        Person 'Homer': mentioned 1 times
+        Place 'North': mentioned 1 times
+    Paragraph 3:
+        Person 'Lincoln': mentioned 1 times
+        Place 'Pacific': mentioned 1 times
+Chapter 6:
+    Paragraph 1:
+        Person 'Lincoln': mentioned 1 times
+        Place 'Abraham': mentioned 1 times
+Chapter 10:
+    Paragraph 1:
+        Person 'S': mentioned 1 times
+        Place '##nx': mentioned 1 times
+    Paragraph 2:
+        Person 'N ##em ##o': mentioned 1 times
+        Place 'Museum': mentioned 1 times
+    Paragraph 3:
+        Person 'Madonna Raphael Leonardo da Vinci': mentioned 1 times
+        Place 'Co ##rre ##gio': mentioned 1 times
+    Paragraph 4:
+        Person 'Ho ##l ##bei ##n': mentioned 1 times
+        Place 'V ##ela ##sque ##z R ##iber ##a': mentioned 1 times
+    Paragraph 5:
+        Person 'Neptune': mentioned 1 times
+        Place 'Island of Bourbon': mentioned 1 times
+        Place 'Anti ##lles': mentioned 1 times
+    Paragraph 6:
+        Person '##um': mentioned 1 times
+        Place 'Mu ##sca ##t': mentioned 1 times
+Chapter 12:
+    Paragraph 1:
+        Person 'Mo ##tal ##a': mentioned 1 times
+        Person 'Hart': mentioned 1 times
+        Place 'Sweden': mentioned 1 times
+Chapter 13:
+    Paragraph 1:
+        Person 'N ##em ##o': mentioned 1 times
+        Place 'Sun': mentioned 1 times
+Chapter 14:
+    Paragraph 1:
+        Person 'Philip Cole ##s B ##urley': mentioned 1 times
+        Person 'Fu ##rc ##y': mentioned 1 times
+        Place 'England': mentioned 1 times
+        Place 'France': mentioned 1 times
+    Paragraph 2:
+        Person 'Land ##i': mentioned 1 times
+        Place 'Italy': mentioned 1 times
+Chapter 15:
+    Paragraph 1:
+        Person 'Ned': mentioned 1 times
+        Place 'Island of C ##res ##po': mentioned 1 times
+Chapter 17:
+    Paragraph 1:
+        Person 'Cook': mentioned 1 times
+        Place 'Sand ##wich Islands': mentioned 1 times
+    Paragraph 2:
+        Person 'Martin': mentioned 1 times
+        Place 'No ##uka - Hi ##va': mentioned 1 times
+Chapter 18:
+    Paragraph 1:
+        Person 'La': mentioned 1 times
+        Place 'Island Du': mentioned 1 times
+        Place '##zar ##ef ##f': mentioned 1 times
+    Paragraph 2:
+        Person 'G ##am ##bie ##r': mentioned 1 times
+        Place 'France': mentioned 1 times
+    Paragraph 3:
+        Person 'Chance': mentioned 1 times
+        Place 'Island of': mentioned 1 times
+    Paragraph 4:
+        Person 'Q ##ui ##ros': mentioned 1 times
+        Place 'He ##bri ##des': mentioned 1 times
+        Place 'Bo ##uga': mentioned 1 times
+    Paragraph 5:
+        Person 'D ’ En ##tre ##cast ##eau ##x': mentioned 1 times
+        Place 'New Georgia': mentioned 1 times
+    Paragraph 6:
+        Person 'Dillon': mentioned 1 times
+        Place 'Calcutta': mentioned 1 times
+    Paragraph 7:
+        Person 'Van ##iko ##ro': mentioned 1 times
+        Place 'New': mentioned 1 times
+    Paragraph 8:
+        Person 'Dillon': mentioned 1 times
+        Place 'Van ##iko ##ro Hobart Town': mentioned 1 times
+    Paragraph 9:
+        Person 'Le ##go ##aran ##t de T ##rome ##lin': mentioned 1 times
+        Place 'Van ##iko ##ro': mentioned 1 times
+    Paragraph 10:
+        Person 'Bo ##uss ##ole': mentioned 1 times
+        Place 'Bo ##tany Bay': mentioned 1 times
+    Paragraph 11:
+        Person 'Santa': mentioned 1 times
+        Person 'Nam': mentioned 1 times
+        Place 'Cruz': mentioned 1 times
+Chapter 19:
+    Paragraph 1:
+        Person 'La Per ##ouse': mentioned 1 times
+        Place 'Papua': mentioned 1 times
+    Paragraph 2:
+        Person 'd': mentioned 1 times
+        Person 'U': mentioned 1 times
+        Place '’': mentioned 1 times
+        Place '##rville Islands of Murray': mentioned 1 times
+Chapter 21:
+    Paragraph 1:
+        Person 'Philippe': mentioned 1 times
+        Place 'Louis': mentioned 1 times
+Chapter 22:
+    Paragraph 1:
+        Person 'Captain N ##em ##o': mentioned 1 times
+        Place 'Sea of Timor': mentioned 1 times
+Chapter 27:
+    Paragraph 1:
+        Person 'Ned Land': mentioned 1 times
+        Place 'Red Sea': mentioned 1 times
+    Paragraph 2:
+        Person 'Bonaparte': mentioned 1 times
+        Place 'Desert of Suez': mentioned 1 times
+Chapter 28:
+    Paragraph 1:
+        Person '##je': mentioned 1 times
+        Person '##ah': mentioned 1 times
+        Place 'D': mentioned 1 times
+        Place '##dd': mentioned 1 times
+Chapter 29:
+    Paragraph 1:
+        Person 'Ned': mentioned 1 times
+        Place 'Port Said': mentioned 1 times
+    Paragraph 2:
+        Person 'Neptune': mentioned 1 times
+        Place 'Island of Sc ##ar ##pan ##to Rhodes': mentioned 1 times
+    Paragraph 3:
+        Person 'Mata ##pan P ##es ##ca': mentioned 1 times
+        Place 'Cy ##c ##lades': mentioned 1 times
+    Paragraph 4:
+        Person 'Cass ##io ##dor ##us P ##lin ##y': mentioned 1 times
+        Place 'The ##ia': mentioned 1 times
+Chapter 31:
+    Paragraph 1:
+        Person 'Cha ##teau - Ren ##aud': mentioned 1 times
+        Place 'V ##igo Bay': mentioned 1 times
+    Paragraph 2:
+        Person 'M A ##ron ##na': mentioned 1 times
+        Person 'N ##em ##o': mentioned 1 times
+        Place 'V ##igo Bay': mentioned 1 times
+Chapter 32:
+    Paragraph 1:
+        Person 'Plato': mentioned 1 times
+        Place 'Atlantis Atlantis': mentioned 1 times
+Chapter 34:
+    Paragraph 1:
+        Person 'Ned Land': mentioned 1 times
+        Place 'Pacific': mentioned 1 times
+Chapter 36:
+    Paragraph 1:
+        Person 'Ned Land': mentioned 1 times
+        Place 'Arctic Seas': mentioned 1 times
+Chapter 37:
+    Paragraph 1:
+        Person 'N ##em ##o': mentioned 1 times
+        Place 'South Pole': mentioned 1 times
+Chapter 41:
+    Paragraph 1:
+        Person 'Con ##sei': mentioned 1 times
+        Place 'St . Mal ##o': mentioned 1 times
+Chapter 43:
+    Paragraph 1:
+        Person 'Sad ##owa': mentioned 1 times
+        Place 'Prussia Austria': mentioned 1 times
+    Paragraph 2:
+        Person 'Captain N': mentioned 1 times
+        Place 'British Isles': mentioned 1 times
+    Paragraph 3:
+        Person 'Villa': mentioned 1 times
+        Person 'Joy ##eus': mentioned 1 times
+        Place 'Brest': mentioned 1 times
+Chapter 45:
+    Paragraph 1:
+        Person 'Abraham Lincoln': mentioned 1 times
+        Place 'Torres Straits': mentioned 1 times
